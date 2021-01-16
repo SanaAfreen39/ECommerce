@@ -1,0 +1,4 @@
+# Miscellaneous
+.dart_tool
+.idea
+build
